@@ -5,5 +5,5 @@ Recommending amazon fashion products using text vectorizer techniques and K-Mean
 2. The Preparing data folder contain three ".ipynb" files
 3. The "Amazon preparing data" file contains loading and testing and visualzing the data
 4. The "Pre processing and recommendation model" file contains pre-processing the data and  text vectorizer techniques and K_Means algorithm implementation to recommened products
-5. The "Transfer_learning_model" contains feature generation using VGG-16 pre tranined model (I recommend using google collaboratory to run this file, i could not perform feature extraction on my system with 8GB RAM and NVDIA 940MX GPU)
+5. The "Transfer_learning_model" contains feature extraction using VGG-16 pre tranined model (I recommend using google collaboratory to run this file, i could not perform feature extraction on my system with 8GB RAM and NVDIA 940MX GPU)
   
