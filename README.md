@@ -1,5 +1,5 @@
 # Amazon-fashion-recommendation
-Recommending amazon fashion products using text vectorizer techniques and K-Means algorithm and transfer learning
+Recommending amazon fashion products using text vectorizer techniques and K-Means algorithm and transfer learning. In this case study similarity between any two or more products is governed by the euclidean distance between them.
 
 1. Use the top_fashion.rar file for traning/testing models
 2. The Preparing data folder contain three ".ipynb" files
